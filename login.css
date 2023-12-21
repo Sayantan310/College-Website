@@ -47,9 +47,9 @@ body {
   }
 
   .background {
-    height: max-content;
-    width: 100%;
-    background-image: url(msit1.jpg);
-    background-size: cover;
-    opacity: 0.95;
+    /* height: max-content; */
+    /* width: 100%; */
+    /* background-image: url(msit1.jpg); */
+    /* background-size: cover; */
+    /* opacity: 0.95; */
   }
